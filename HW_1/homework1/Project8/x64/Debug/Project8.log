@@ -1,0 +1,14 @@
+﻿  command_line.cpp
+C:\Users\hp\Documents\repos\ESE_344\HW_1\homework1\Project8\command_line.cpp(22,22): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\hp\Documents\repos\ESE_344\HW_1\homework1\Project8\command_line.cpp(27,13): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  files.cpp
+  Generating Code...
+  Project8.vcxproj -> C:\Users\hp\Documents\repos\ESE_344\HW_1\homework1\x64\Debug\HW1.exe
