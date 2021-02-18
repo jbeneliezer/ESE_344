@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\hp\Documents\repos\ESE_344\homework2\homework2\Source.cpp(92,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hp\Documents\repos\ESE_344\homework2\homework2\Source.cpp(93,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\repos\ESE_344\homework2\homework2\Source.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\repos\ESE_344\homework2\homework2\Source.cpp(87): message : see reference to function template instantiation 'const Comparable &findMax<Rectangle>(const std::vector<Rectangle,std::allocator<Rectangle>> &)' being compiled
+          with
+          [
+              Comparable=Rectangle
+          ]
+  homework2.vcxproj -> C:\Users\hp\Documents\repos\ESE_344\homework2\Debug\homework2.exe
