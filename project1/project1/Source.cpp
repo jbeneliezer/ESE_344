@@ -1,6 +1,7 @@
+#define _USE_MATH_DEFINES
 #ifndef MATRIX_H
 #define MATRIX_H
-#define _USE_MATH_DEFINES
+
 #include <iostream>
 #include <fstream>
 #include <vector>
